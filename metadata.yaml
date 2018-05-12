@@ -1,0 +1,31 @@
+_repo: Diamantstad_24116
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heijermans, Herman
+    aliases:
+    - Sperber, Heinz
+    - Falkland, Samuel
+    - Heyermans, Herman
+    birthdate: 1864
+    deathdate: 1924
+    gutenberg_agent_id: '9057'
+    url: http://www.gutenberg.org/2009/agents/9057
+    wikipedia: http://en.wikipedia.org/wiki/Herman_Heijermans
+description: ''
+gutenberg_issued: '2008-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24116'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Dutch fiction'
+title: Diamantstad
+url: http://www.gutenberg.org/ebooks/24116
